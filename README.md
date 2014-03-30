@@ -7,7 +7,7 @@ Uses a Simple game example from Libgdx Wiki
 
 https://github.com/libgdx/libgdx/wiki/A-simple-game
 
-do not forget set yout admob id in mainactivity:
+do not forget set your admob id in mainactivity:
  
  adView.setAdUnitId("INSERT_YOUR_ADMOB_ID");  //  <= insert admob id
 
